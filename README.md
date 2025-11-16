@@ -1,5 +1,10 @@
 # Annular Flow of PTT Fluid - CFD Model
 
+**Author:** Taha Rezaee (塔赫·雷扎伊)  
+**Email:** rezaee.taha@gmail.com  
+
+---
+
 This repository contains Computational Fluid Dynamics (CFD) model files for simulating annular flow development of a Phan-Thien-Tanner (PTT) fluid. The model focuses on the hydrodynamic development region and viscoelastic stress development in annular geometries.
 
 ## 📖 Associated Publication
