@@ -11,7 +11,8 @@ This repository contains Computational Fluid Dynamics (CFD) model files for simu
 
 ## 📖 Associated Publication
 
-This CFD model is associated with a scientific manuscript currently under review. A link to the publication and its DOI will be provided here upon acceptance.
+This CFD model is associated with a scientific manuscript:
+Viscoelastic annular entry flow with wall slip: A numerical study of velocity and stress development https://doi.org/10.1063/5.0304570
 
 ## 🚀 Model Specifications
 
